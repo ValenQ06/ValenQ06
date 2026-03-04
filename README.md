@@ -1,14 +1,3 @@
 ### Hi there 👋
 
-
-My name is Valentina Quiñones, I am a systems engineer, I work in the Siesa company as a staff developer, I am passionate about my work, and for doing things well, I always liked to know how the technology worked and we It allowed to do everything much easier, and here I am in the process of knowing it!!
-
-- 🔭 I’m currently working on company siesa as a staff developer.
-- 🌱 I’m currently learning I am currently learning languages like JavaScript, Angular and C#, I am also looking at HTML, CSS and Bootstrap tags.
-- 👯 I’m looking to collaborate on small projects because I am just beginning this path of programming.
-- 🤔 I’m looking for help on how to improve my logic with algorithms.
-- 💬 Ask me about ....
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+My name is Valentina Quiñones, I am a Systems Engineer with over 5 years of experience in software development, specializing in .NET Core, C#, and REST API architecture for high-performance enterprise systems. Solid experience in designing scalable backend solutions, integrating services, and optimizing SQL Server and PostgreSQL databases under high-volume data handling. Proficient in React and TypeScript for frontend-backend integration, and experienced in performance improvement, code refactoring, and best engineering practices in agile environments. Focused on delivering efficient, maintainable solutions aligned with strategic business objectives.
